@@ -28,8 +28,9 @@ up = \drummode {
   
   % Notes
   
+  \tempo 4 = 65
   \bar ":|."
-  <hh bd>8[ hh] <hh sn>[ hh] <hh bd>[ <hh bd>] <hh sn>[ hh]
+  <hh bd>16[ hh <hh bd> hh] <hh sn>[ hh hh hh] <hh bd>[ hh <hh bd> hh] <hh sn>[ hh hh hh]
 }
 
 % ===== Stems Down voice
