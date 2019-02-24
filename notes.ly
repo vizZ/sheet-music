@@ -30,7 +30,14 @@ up = \drummode {
   
   \tempo 4 = 65
   \bar ":|."
-  <hh bd>16[ hh <hh bd> hh] <hh sn>[ hh <hh bd> <hh bd>] hh[ <hh sn> hh hh] <hh bd>[ <hh bd> <hh sn> hh]
+  <hh bd>16[ hh <hh bd> hh] <hh sn>[ hh <hh bd> <hh bd>] hh[ <hh sn> hh hh] <hh bd>[ <hh bd> <hh sn> hh] |
+  <hh bd>16[ hh <hh bd> hh] <hh sn>[ hh <hh bd> <hh bd>] hh[ <hh sn> hh hh] <hh bd>[ <hh bd> <hh sn> hh] |
+
+  \mark #2
+
+  \tempo 4 = 65
+  \bar ":|."
+  <hh bd>8[ <hh bd>] <hh sn>[ <hh bd> bd16] hh[ <hh sn> hh hh] <hh bd>[ <hh bd> <hh sn> hh]
 }
 
 % ===== Stems Down voice
